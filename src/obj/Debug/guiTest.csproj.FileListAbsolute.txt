@@ -1,0 +1,10 @@
+C:\Users\blake\source\repos\guiTest\bin\Debug\guiTest.exe.config
+C:\Users\blake\source\repos\guiTest\bin\Debug\guiTest.exe
+C:\Users\blake\source\repos\guiTest\bin\Debug\guiTest.pdb
+C:\Users\blake\source\repos\guiTest\obj\Debug\guiTest.csprojAssemblyReference.cache
+C:\Users\blake\source\repos\guiTest\obj\Debug\guiTest.Form1.resources
+C:\Users\blake\source\repos\guiTest\obj\Debug\guiTest.Properties.Resources.resources
+C:\Users\blake\source\repos\guiTest\obj\Debug\guiTest.csproj.GenerateResource.cache
+C:\Users\blake\source\repos\guiTest\obj\Debug\guiTest.csproj.CoreCompileInputs.cache
+C:\Users\blake\source\repos\guiTest\obj\Debug\guiTest.exe
+C:\Users\blake\source\repos\guiTest\obj\Debug\guiTest.pdb

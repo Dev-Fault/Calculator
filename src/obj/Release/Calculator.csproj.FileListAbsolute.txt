@@ -1,0 +1,10 @@
+C:\Users\blake\source\repos\guiTest\obj\Release\Calculator.csprojAssemblyReference.cache
+C:\Users\blake\source\repos\guiTest\obj\Release\guiTest.Main.resources
+C:\Users\blake\source\repos\guiTest\obj\Release\Calculator.csproj.GenerateResource.cache
+C:\Users\blake\source\repos\guiTest\obj\Release\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\blake\source\repos\guiTest\bin\Release\Calculator.exe.config
+C:\Users\blake\source\repos\guiTest\bin\Release\Calculator.exe
+C:\Users\blake\source\repos\guiTest\bin\Release\Calculator.pdb
+C:\Users\blake\source\repos\guiTest\obj\Release\Calculator.Properties.Resources.resources
+C:\Users\blake\source\repos\guiTest\obj\Release\Calculator.exe
+C:\Users\blake\source\repos\guiTest\obj\Release\Calculator.pdb
